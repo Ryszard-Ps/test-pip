@@ -1,4 +1,4 @@
-from rsr_calculator.version import version
+from test_pip.version import version
 
 from distutils.core import setup
 
