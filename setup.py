@@ -18,7 +18,7 @@ setup(
     version='1.2.0',
 
     description='A sample Python project',
-    long_description=long_description,
+    long_description='long description',
 
     # The project's main homepage.
     url='https://github.com/Ryszard-Ps/test-pip.git',
