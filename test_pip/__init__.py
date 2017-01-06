@@ -1,6 +1,4 @@
-from __future__ import absolute_import, division, print_function, \
-    unicode_literals
-
 
 def main():
-    print("Hello")
+    """Entry point for the application script"""
+    print("Call your main application code here")
